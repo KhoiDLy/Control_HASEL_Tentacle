@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [5VV10 AND BUCK_v2_SKM.PrjPcb]
+   Generated File[5VV10 AND BUCK_v3_SKM.TXT]
+   Generated File[5VV10 AND BUCK_v3_SKM.DRL]
+   Generated File[5VV10 AND BUCK_v3_SKM.LDP]
+   Generated File[5VV10 AND BUCK_v3_SKM.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:45:55 PM On 2/20/2018

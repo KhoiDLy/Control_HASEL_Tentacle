@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 5VV10 AND BUCK.PcbDoc   2/8/2018  11:32:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 5VV10 AND BUCK.TXT
+EIA File   : 5VV10 AND BUCK.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             22        PTH        17.10inch (434.30mm)
+T2      30mil (0.762mm)                                           Round             3         PTH        0.39inch (10.01mm)
+T3      31mil (0.787mm)                                           Round             16        PTH        9.31inch (236.42mm)
+T4      40mil (1.016mm)                                           Round             8         PTH        2.81inch (71.40mm)
+T5      43mil (1.092mm)                                           Round             4         PTH        1.63inch (41.29mm)
+T6      67mil (1.702mm)                                           Round             4         PTH        2.19inch (55.63mm)
+T7      70mil (1.778mm)                                           Round             4         PTH        4.60inch (116.84mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+
+Total Processing Time (hh:mm:ss) : 00:00:00

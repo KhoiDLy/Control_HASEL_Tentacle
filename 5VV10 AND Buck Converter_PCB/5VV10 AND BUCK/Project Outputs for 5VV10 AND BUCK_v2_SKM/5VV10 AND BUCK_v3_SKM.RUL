@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\khoi\Google Drive\education-academics\CU Boulder\Research\NSF CSP Research\SPIE_Donut Stack Open Loop Control\5VV10 AND Buck Converter\5VV10 AND BUCK\5VV10 AND BUCK_v3_SKM.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
